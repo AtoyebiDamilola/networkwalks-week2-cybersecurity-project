@@ -30,5 +30,5 @@ This exercise provided practical experience in basic network discovery, host ide
 
 ## Security and Privacy
 
-Personal information and sensitive private network identifiers have been redacted from the publicly shared screenshots. Unredacted assessment evidence is retained separately.
+Personal information and sensitive private network identifiers have been redacted from the publicly shared screenshots. 
 
